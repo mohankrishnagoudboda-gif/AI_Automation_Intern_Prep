@@ -1,0 +1,4 @@
+input: data/raw_notes.txt
+default_format: csv
+ai_engine: ollama
+model: llama3

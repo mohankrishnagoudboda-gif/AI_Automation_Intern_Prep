@@ -1,0 +1,52 @@
+[
+  {
+    "task_id": "4abe5b34",
+    "name": "HR onboarding incomplete",
+    "owner": "unassigned",
+    "domain": "unknown",
+    "status": "pending",
+    "priority": "medium",
+    "dependency": null,
+    "risk": "unknown"
+  },
+  {
+    "task_id": "5f8ee7f8",
+    "name": "IT setup delayed due to access issues",
+    "owner": "unassigned",
+    "domain": "unknown",
+    "status": "pending",
+    "priority": "medium",
+    "dependency": null,
+    "risk": "unknown"
+  },
+  {
+    "task_id": "ae52b141",
+    "name": "Finance approval pending CFO review",
+    "owner": "unassigned",
+    "domain": "unknown",
+    "status": "pending",
+    "priority": "medium",
+    "dependency": null,
+    "risk": "unknown"
+  },
+  {
+    "task_id": "b5be09b7",
+    "name": "Security audit not scheduled",
+    "owner": "unassigned",
+    "domain": "unknown",
+    "status": "pending",
+    "priority": "medium",
+    "dependency": null,
+    "risk": "unknown"
+  },
+  {
+    "task_id": "45a396e7",
+    "name": "Legal documents missing signatures",
+    "owner": "unassigned",
+    "domain": "unknown",
+    "status": "pending",
+    "priority": "medium",
+    "dependency": null,
+    "risk": "unknown"
+  }
+]

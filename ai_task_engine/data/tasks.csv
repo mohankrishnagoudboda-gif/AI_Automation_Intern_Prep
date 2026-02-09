@@ -1,0 +1,6 @@
+task_id,name,owner,domain,status,priority,dependency,risk
+fda18ec2,HR onboarding incomplete,unassigned,unknown,pending,medium,,unknown
+dc225138,IT setup delayed due to access issues,unassigned,unknown,pending,medium,,unknown
+8579a6a8,Finance approval pending CFO review,unassigned,unknown,pending,medium,,unknown
+fe2082ee,Security audit not scheduled,unassigned,unknown,pending,medium,,unknown
+01abf611,Legal documents missing signatures,unassigned,unknown,pending,medium,,unknown
